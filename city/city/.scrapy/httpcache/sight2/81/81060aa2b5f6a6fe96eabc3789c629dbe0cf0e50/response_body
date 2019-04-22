@@ -1,0 +1,1 @@
+{"error": 400, "description": "Error happened while executing Lua script", "info": {"error": "')' expected near char(239)", "source": "[string \"...\"]", "type": "LUA_INIT_ERROR", "message": "[string \"...\"]:4: ')' expected near char(239)", "line_number": 4}, "type": "ScriptError"}

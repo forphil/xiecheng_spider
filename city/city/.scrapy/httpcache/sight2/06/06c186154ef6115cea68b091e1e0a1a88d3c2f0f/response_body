@@ -1,0 +1,6 @@
+<html><head><title>Failed loading page</title></head>
+                <body>
+                    <h1>Failed loading page (Connection refused)</h1>
+                    <h2>http://www.gpsspg.com/ip/</h2>
+                    <p>Network error #1</p>
+                </body></html>

@@ -1,0 +1,10 @@
+Server: nginx/1.14.1
+Date: Tue, 16 Apr 2019 13:25:00 GMT
+Content-Type: text/html; charset=utf-8
+Cache-Control: private
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Aspnetmvc-Version: 3.0
+X-Aspnet-Version: 4.0.30319
+Set-Cookie: ASP.NET_SessionSvc=MTAuMjguMTEyLjE2MXw5MDkwfGppbnFpYW98ZGVmYXVsdHwxNTUxOTUzODI4Njkz; path=/; HttpOnly
+X-Powered-By: ASP.NET

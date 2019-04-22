@@ -1,0 +1,101 @@
+<!DOCTYPE html><html><head>
+	    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+	    <meta content="验证访问" name="description">
+	    <meta content="qai" name="author">
+	    <meta http-equiv="Pragma" content="no-cache">
+	    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+	    <title>携程在手，说走就走</title>
+	    <link rel="stylesheet" href="css/bootstrap.min.css">
+    	<link rel="stylesheet" href="css/main.css">
+	<script type="text/javascript" charset="utf-8" async="" defer="defer" crossorigin="anonymous" src="https://webresource.c-ctrip.com/code/ubt/fp-em9.js"></script><script type="text/javascript" id="rmsd__script" async="" src="https://webresource.c-ctrip.com/resaresonline/risk/ubtrms/d.min.ae216d54.js" crossorigin="anonymous"></script><script type="text/javascript" charset="utf-8" async="" defer="defer" crossorigin="anonymous" src="https://webresource.c-ctrip.com/ResUnionOnline/R1/common/marinRedirect.js?v=20190421"></script><script type="text/javascript" charset="utf-8" async="" defer="defer" crossorigin="anonymous" src="https://webresource.c-ctrip.com/resaresonline/risk/ubtrms/latest/default/rms.js?v=20190421"></script><script type="text/javascript" charset="utf-8" async="" defer="defer" crossorigin="anonymous" src="//m.ctrip.com/restapi/soa2/11470/getToken.json?t=1555827236935&amp;callback=$_bf_uniq_F1"></script><script type="text/javascript" charset="utf-8" async="" src="https://webresource.c-ctrip.com/code/ubt/_bfa.min.js?v=20193_21"></script><script type="text/javascript" src="js/ua.js"></script>
+	<script type="text/javascript">
+		var ua = navigator.userAgent.toLowerCase();
+		if (isMobile(ua)) {
+			;(function(){if(!window.$_bf||!window.$_bf.loaded){var a=new Date,b="?v="+a.getFullYear()+a.getMonth()+"_"+a.getDate(),a=document.createElement("script");a.type="text/javascript";a.charset="utf-8";a.async=!0;a.src="//webresource.c-ctrip.com/code/ubt/_mubt.min.js"+b;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}})();
+		} else {
+			;(function(){if(!(window.$_bf&&window.$_bf.loaded||window.$LAB||window.CtripJsLoader)){var a=new Date,b=!1,c="?v="+a.getFullYear()+a.getMonth()+"_"+a.getDate(),a=document.createElement("script");a.type="text/javascript";a.charset="utf-8";a.async=!0;try{b="https:"==location.protocol}catch(d){}a.src=((b?"https:":"http:"))+"//webresource.c-ctrip.com/code/ubt/_bfa.min.js"+c;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}})();
+		}
+	</script>
+  	<script src="//webresource.c-ctrip.com/ares/infosec/captcha/~2.4.0/default/js/captcha.min.js?expires=1d"></script>
+	<style id="cpt_style_content">#verification-code{position:relative;display:block;width:260px;height:40px;background:rgb(235, 235, 235);border-radius: 4px;}#verification-code div { float:none;width:auto;height:auto;display:block;padding:0;margin:0;border:0px;line-height:1.428571429;box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;}.cpt-logo {width:100%;height:100%;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=crop,src="https://webresource.c-ctrip.com/ares/infosec/captcha/2.4.25/default/img/captcha2.png");background: url(https://webresource.c-ctrip.com/ares/infosec/captcha/2.4.25/default/img/captcha2.png) no-repeat;}#verification-code input::-ms-clear{display:none;}#verification-code input{box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;}#verification-code .cpt-loading-box{position:absolute;top:0;left:0;width:100%;height:40px;z-index:10;font-size:12px;text-align:center;background:rgb(232, 232, 232);-moz-user-select: none;overflow: hidden;-webkit-user-select: none;-ms-user-select: none;-khtml-user-select: none;user-select: none;border-radius: 4px;font-weight: bold;}#verification-code .cpt-loading-img{display:inline-block;width:20px;height:20px;margin-top:10px;min-width:10px;min-height:10px;}#verification-code .cpt-loading-info-box{display:none;height:40px;overflow:hidden;white-space:nowrap;}#verification-code .cpt-loading-icon-content{display:inline-block;height:18px;width:18px;overflow:hidden;margin:11px 5px 0 11px;}#verification-code .cpt-loading-right{display:block;line-height:40px;background-position:-54px 2px;}#verification-code .cpt-loading-error{display:block;line-height:40px;background-position:-74px -0px;}#verification-code .cpt-loading-text{display:none;color:#555;z-index:0;line-height:40px;white-space:nowrap;vertical-align:top;}#verification-code .cpt-drop-btn{border-radius: 4px;width: 36px;height: 36px;border: 2px solid #EBEBEB;background: #fff;display: block;position: absolute;top: 0;left: 0;cursor: move;z-index: 2;color: #888;font-size: 14px;-moz-user-select: none;-webkit-user-select: none;-ms-user-select: none;-khtml-user-select: none;user-select: none;box-sizing: content-box;-moz-box-sizing: content-box;-webkit-box-sizing: content-box;}#verification-code .cpt-img-double-right-outer{position:relative;height:18px;width:18px;overflow:hidden;margin:9px 0 0 9px;}#verification-code .cpt-img-double-right{display:block;background-position:-20px 3px;}#verification-code .cpt-img-check-right{display:none;background-position:-54px 2px;}#verification-code .cpt-img-check-error{display:none;background-position:-74px -0px;}#verification-code .cpt-img-check-loading{display: block;width:100%;height:100%;}#verification-code .cpt-drop-bg{ background: #7ac23c;position: absolute;height: 40px;top:0;left: 0;width: 20px;border-radius: 4px;}#verification-code .cpt-bg-bar{ top:0;left:0;width: 100%;background: transparent;height:40px;line-height:40px;font-size: 12px;text-align: center;-moz-user-select: none;overflow: hidden;-webkit-user-select: none;-ms-user-select: none;-khtml-user-select: none;user-select: none;position: absolute;z-index: 1;cursor: pointer;border-radius: 4px;}#verification-code .cpt-info-board {display:inline-block;color:#555;z-index:0;height:40px;width:auto;white-space:nowrap;border-radius: 4px;font-weight: bold;}#verification-code .cpt-img-box { display:none;width: 258px;border: 1px solid #ccc;position: absolute;top: 42px;left: 0px;background: #fff;z-index:10;}#verification-code .cpt-text-input { width: 66px;height: 34px;line-height: 34px;float: left;border: 1px solid #dedede;padding: 1px 26px 1px 4px;margin: 5px;color: #555;}#verification-code .cpt-img-check-outer {position:absolute;top: 16px;left: 80px;height: 18px;width: 18px;overflow: hidden;}#verification-code .cpt-check-right {display: none;background-position:-56px -0px;}#verification-code .cpt-check-error {display: none;background-position:-74px -0px;cursor:pointer;}#verification-code .cpt-img-verif { float: left;margin: 5px 0;color: #fff;}#verification-code .cpt-img-refresh-outer{display:inline-block;height:18px;width:18px;overflow:hidden;margin:16px 0 0px 8px;box-sizing: content-box;-moz-box-sizing: content-box;-webkit-box-sizing: content-box;}#verification-code .cpt-img-refresh {display: block;background-position:-38px -0px;}#verification-code .cpt-info-text { float: left;line-height: 14px;margin: 0 0 5px 5px;font-size: 12px;color: #f00;display: none;}body .cpt-choose-delete{position:absolute;top:5px;right:5px;width:23px;height:23px;background-position:-92px -0px;cursor:pointer;z-index:10;}body .cpt-choose-box{display:none;width:300px;position:absolute;border-radius: 8px;background: #fff;z-index: 2000;-webkit-user-select:none;-moz-user-select:none;-khtml-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none;}body .cpt-choose-box-pop{top: 50%;left:50%;}body .cpt-choose-box-cover{width:100%;top:0;left:0;right:0;bottom:0;border:0;}body .cpt-choose-box-over{bottom:-100px}body .cpt-choose-top{position:relative;overflow:hidden;padding:20px 0;}body .cpt-choose-msg-box{height:50px;float: left;margin:10px 0 0 10px;overflow:hidden;position: relative;}body .cpt-choose-msg {left:0px;height:40px;overflow:hidden;white-space:nowrap;display:inline-block;margin: 0 5px 0;font-size: 12px;color: #566980;line-height:40px;vertical-align:sub;z-index:-10;}body .cpt-small-img{display: inline-block;float:right;margin: 10px 10px 10px 0;color: #fff;vertical-align: -webkit-baseline-middle;border-radius: 4px;}body .cpt-ad-box{display:none;text-align:center;height:38px;padding:0;margin:0 10px;overflow:hidden;position:relative;}body .cpt-ad-href{display:inline-block;line-height:38px;font-size:12px;text-decoration:none;white-space:nowrap;overflow:hidden;color:#00e;}body .cpt-ad-href:hover, body .cpt-ad-href:active, body .cpt-ad-href:visited{color:#00e;}body .cpt-big-box{position: relative;overflow:hidden;margin:0 10px;}body .cpt-big-img{display:block;border-radius: 4px;}body .cpt-img-sign{position:absolute;width:20px;height:20px;color:#fff;text-align:center;line-height:20px;font-size:14px;font-weight:bold;background-position:-115px -0px;cursor:pointer;}body .cpt-sub-box{margin:10px auto;}body .cpt-choose-refresh-outer{float:left;height:18px;width:18px;overflow:hidden;margin: 0;padding: 9px 10px;box-sizing: content-box;-moz-box-sizing: content-box;-webkit-box-sizing: content-box;}body .cpt-choose-refresh{width: 100%;height: 100%;display: block;background-position:-137px -0px;}body .cpt-choose-loading{width: 100%;height: 100%;display: none;}body .cpt-choose-submit{float:right;width:100px;height:36px;line-height:36px;overflow:hidden;text-align:center;margin-right: 10px;border: none;position:relative;cursor: pointer;vertical-align: text-bottom;z-index: 0;display: inline;color: #fff;background: #2C6FB7;text-decoration: none;border-radius: 4px;}body .cpt-submit-text{display:inline-block;white-space:nowrap;height:36px;}body .cpt-choose-bg{display:none;position:fixed;left:0;top:0;z-index:1900;width: 100%; height: 100%;background: rgb(0,0,0);background: rgba(0,0,0,.5);filter:alpha(opacity=50);}</style></head>
+
+	<body>
+		<div class="postagram-main">
+		    <div class="main-container">
+		        <!-- #download-app -->
+		        <div id="download-app" class="container-fluid content-hero">
+		            <div class="row-fluid light" style="display:inline-block;width:100%;color: #fff;">
+		                <div class="float-div text-center" style="/* min-width:500px; *//* width:46%; */">
+		                    <div class="valid-form">
+		                        <div style="background:url(http://pic.c-ctrip.com/common/un_pic.png) no-repeat;position:relative;z-index:5;width:144px;height:54px;margin:0 auto 48px;overflow:hidden;z-index:1;background-position:0 0;">
+		                        </div>
+								<p style="padding-bottom:30px;font-size:16px;">
+									 亲爱的用户，请完成验证后继续访问
+								</p>
+		                        <form name="sms_download_form" id="sms_download_form_exp" style="position:relative;z-index: 1;">
+			                        <input type="text" name="returnurl" id="returnurl" value="http://you.ctrip.com/destinationsite/sight/jiuzhaigou25/55308.html" style="display:none">
+		                            <input type="text" name="bgref" id="bgref" value="1861874428" style="display:none">
+		                            <input type="text" name="isIpv6" id="isIpv6" value="null" style="display:none">
+		                            <input type="text" name="slidingLang" id="slidingLang" value="zh-CN" style="display:none">
+		                            <div style="display:inline-block;height:50px;vertical-align:middle;fons-size:0;margin-top:5px;">
+			                        	<div id="verification-code"><div class=" cpt-drop-box"><div class="cpt-loading-box"><img class="cpt-loading-img" src="https://webresource.c-ctrip.com/ares/infosec/captcha/2.4.25/default/img/loading.gif"><span class="cpt-loading-info-box" style="position: static;"><span class="cpt-loading-icon-content"><i class="cpt-logo cpt-loading-right"></i><i class="cpt-logo cpt-loading-error"></i></span><span class="cpt-loading-text"></span></span></div><div class="cpt-drop-btn"><div class="cpt-img-double-right-outer"><i class="cpt-logo cpt-img-double-right"></i><i class="cpt-logo cpt-img-check-right"></i><i class="cpt-logo cpt-img-check-error"></i><img class="cpt-img-check-loading" src="https://webresource.c-ctrip.com/ares/infosec/captcha/2.4.25/default/img/loading.gif"></div></div><div class="cpt-drop-bg"></div><div class="cpt-bg-bar" unselectable="on"><span class="cpt-info-board" style="background-image: -webkit-gradient(linear, 0% 0%, 100% 0%, from(rgb(86, 105, 128)), from(rgb(86, 105, 128)), from(rgb(255, 255, 255)), from(rgb(86, 105, 128)), to(rgb(86, 105, 128))); -webkit-text-fill-color: transparent; -webkit-background-clip: text; position: static; background-position: initial initial; background-repeat: initial initial;"></span></div></div><div class=" cpt-img-box"><input type="text" class="cpt-text-input" name="captcha" placeholder="验证码" style="color: rgb(200, 200, 200);"><div class="cpt-img-check-outer"><i class="cpt-logo cpt-check-right"></i><i class="cpt-logo cpt-check-error"></i></div><img class="cpt-img-verif" src=""><div class="cpt-img-refresh-outer"><a class="cpt-logo cpt-img-refresh" title="刷新验证码" href="javascript:;"></a></div><span class="cpt-info-text">输入有误，请重新输入</span></div></div>
+			                        </div>
+		                        </form>
+		                    </div>
+		                </div>
+		            </div>
+		            <div class="footImg"></div>
+		        </div>
+		    </div>
+		</div>
+
+		<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	    <script type="text/javascript" src="js/jquery.JPlaceholder.js"></script>
+		<script>
+			var sl = $("#slidingLang").val();
+			var rturl = $("#returnurl").val();
+			if (rturl.indexOf("http") != 0) {
+				rturl = "http://" + rturl;
+			}
+			var slidObj = new slidingVerification({
+				id : "verification-code",
+				appId : '100009915',
+				businessSite : 'arch_antibot_onlineh5',
+				width : '260px',
+				height : '40px',
+				language : sl,
+				chooseOpt : {
+					type : "pop"
+				},
+				stateChange : function(s) {
+				},
+				resultHandler : function(e) {
+					if (e.checkState == 'success') {
+						window.location.href = rturl;
+						var a = {
+							"returnurl" : $("#returnurl").val(),
+							"bgref" : $("#bgref").val(),
+							"isIpv6" : $("#isIpv6").val(),
+							"token": e.token,
+							"checkState" : e.checkState,
+							"version": e.version
+						};
+						$.ajax({
+							url : "sliding_verify",
+							contentType : "application/x-www-form-urlencoded",
+							type : "post",
+							data : a,
+							dataType : "json",
+							error : function(e) {
+							},
+							success : function(d) {
+							}
+						});
+					}
+				}
+			});
+		</script><div class="cpt-choose-bg"></div><div class=" cpt-choose-box cpt-choose-box-pop" style="margin-left: -150px; margin-top: -169.5px;"><i class="cpt-logo cpt-choose-delete"></i><div class="cpt-choose-top"><div class="cpt-choose-msg-box"><span class="cpt-choose-msg"></span></div><img class="cpt-small-img" src=""></div><div class="cpt-ad-box"><a class="cpt-ad-href" target="_blank" href="javascript:;"></a></div><div class="cpt-big-box"><img class="cpt-big-img" src=""></div><div class="cpt-sub-box"><div class="cpt-choose-refresh-outer"><a class="cpt-logo cpt-choose-refresh" href="javascript:;"></a><img class="cpt-choose-loading" src="https://webresource.c-ctrip.com/ares/infosec/captcha/2.4.25/default/img/loading.gif"></div><a href="javascript:;" class="cpt-logo cpt-choose-submit"><span class="cpt-submit-text"></span></a></div></div>
+	
+
+</body><iframe sandbox="allow-same-origin" style="display: none;"></iframe></html>

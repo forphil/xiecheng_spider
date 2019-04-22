@@ -1,0 +1,10 @@
+{
+    "cookies": [],
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+    },
+    "lua_source": "\n        function main(splash, args)\n              splash:on_request(function(request)\n                request:set_proxy{\n                    host = \"112.85.128.175\",\n                    port = 9999,\n                }\n                end)\n          splash:set_user_agent(\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36\")          \n          splash.images_enabled=false\n          splash:go(args.url)\n          splash:wait(0.5)\n          return splash:html() \n        end\n        ",
+    "url": "https://you.ctrip.com/sight/zhenyuan1840/1410722.html"
+}

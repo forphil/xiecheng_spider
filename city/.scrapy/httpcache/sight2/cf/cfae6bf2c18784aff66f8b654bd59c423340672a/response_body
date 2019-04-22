@@ -1,0 +1,1 @@
+{"error": 400, "type": "ScriptError", "info": {"source": "[string \"...\"]", "type": "LUA_INIT_ERROR", "line_number": 4, "message": "[string \"...\"]:4: function arguments expected near '='", "error": "function arguments expected near '='"}, "description": "Error happened while executing Lua script"}

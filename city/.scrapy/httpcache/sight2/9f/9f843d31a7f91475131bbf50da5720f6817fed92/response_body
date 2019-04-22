@@ -1,0 +1,1 @@
+{"error": 400, "description": "Error happened while executing Lua script", "info": {"error": "network1", "source": "[string \"...\"]", "type": "LUA_ERROR", "message": "Lua error: [string \"...\"]:11: network1", "line_number": 11}, "type": "ScriptError"}

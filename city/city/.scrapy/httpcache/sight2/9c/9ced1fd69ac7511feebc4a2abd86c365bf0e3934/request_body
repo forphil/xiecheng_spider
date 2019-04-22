@@ -1,0 +1,11 @@
+{
+    "cookies": [],
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Cookie": "ASP.NET_SessionSvc=MTAuOC4xODkuNjN8OTA5MHxqaW5xaWFvfGRlZmF1bHR8MTU1MTk1MjU2NTIyMA",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+    },
+    "lua_source": "\n        function main(splash, args)\n          splash.images_enabled=false\n          assert(splash:go(args.url))\n          assert(splash:wait(0.5))\n          return splash:html() \n        end\n        ",
+    "url": "https://you.ctrip.com/sight/xishuangbanna30/140684.html"
+}
