@@ -9,8 +9,38 @@ from scrapy import signals
 import scrapy
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from scrapy.downloadermiddlewares.useragent import UserAgentMiddleware
+import random
+
+# 使用User-Agent池
+class MyUserAgentMiddleware(UserAgentMiddleware):
+    def __init__(self, user_agent):
+        self.user_agent = user_agent
+
+    @classmethod
+    def from_crawler(cls, crawler):
+        return cls(
+            user_agent=crawler.settings.get('MY_USER_AGENT')
+        )
+
+    def process_request(self, request, spider):
+        agent = random.choice(self.user_agent)
+        request.headers['User-Agent'] = agent
+
+#使用IP池
+class ProxyMiddleware(object):
+    def __init__(self, ip=''):
+        self.ip = ip
+
+    def from_crawler(cls, crawler):
+        return cls(ip=crawler.settings.get('PROXIES'))
+
+    def process_request(self, request, spider):
+        ip = random.choice(self.ip)
+        request.meta['splash']['args']['proxy'] = ip
 
 
+#除了splash以外，也可以使用selenium实现网页的JS渲染
 class seleniumMiddleware(object):
 
     def process_request(self, request, spider):

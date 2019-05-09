@@ -13,10 +13,10 @@ class CityPipeline(object):
 
     #开始时自动执行此函数
     def open_spider(self, spider):
-        self.connect = pymysql.connect(host='192.168.99.1',
+        self.connect = pymysql.connect(host='94.191.39.209',
                                        port=3306,
                                        db='xiecheng',
-                                       user='root',
+                                       user='viewer',
                                        passwd='123456',
                                        charset='utf8',
                                        use_unicode=True)
@@ -51,10 +51,10 @@ class reviewPipeline(object):
 
     #开始时自动执行此函数
     def open_spider(self, spider):
-        self.connect = pymysql.connect(host='192.168.99.1',
+        self.connect = pymysql.connect(host='94.191.39.209',
                                        port=3306,
                                        db='xiecheng',
-                                       user='root',
+                                       user='viewer',
                                        passwd='123456',
                                        charset='utf8',
                                        use_unicode=True)
@@ -102,10 +102,10 @@ class sightPipeline(object):
         ('{id}','{name}','{score}',{ranking},'{numOfComment}','{wantTogo}','{beenTo}','{address}',{grade},'{tel}','{openTime}','{intro}','{traffic}','{sceneryScore}','{interestScore}','{costPerformScore}','{loveComment}','{familyComment}','{friendComment}','{businessComment}','{aloneComment}','{greatComment}','{fineComment}','{generalComment}','{badComment}','{terribleComment}')'''
 
     def open_spider(self, spider):
-        self.connect = pymysql.connect(host='192.168.99.1',
+        self.connect = pymysql.connect(host='94.191.39.209',
                                        port=3306,
                                        db='xiecheng',
-                                       user='root',
+                                       user='viewer',
                                        passwd='123456',
                                        charset='utf8',
                                        use_unicode=True)

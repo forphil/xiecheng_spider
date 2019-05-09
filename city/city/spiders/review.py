@@ -4,7 +4,7 @@ import re
 import urllib
 from bs4 import BeautifulSoup
 import time
-
+#5900
 class reviewSpider(scrapy.Spider):
     # 爬虫的唯一名字，在项目中爬虫名字一定不能重复
     name='review'
@@ -21,16 +21,17 @@ class reviewSpider(scrapy.Spider):
     }
 
     def start_requests(self):
-        file=open("D:\mycode\pycharm\\xiecheng\city\city\\每个景点的url地址.txt", "r")
+        file=open("D:\mycode\pycharm\\xiecheng\city\city\每个景点的url地址.txt", "r")
         for line in file:
             list = line.split("_")
             url=list[0]
             yield scrapy.Request(url=url, meta={'url': url},callback=self.parse)
         file.close()
-        #url="https://you.ctrip.com/sight/yulong1446279/128234.html"
+        #url="https://you.ctrip.com/sight/macau39/49198.html"
         #yield scrapy.Request(url=url, meta={'url': url},callback=self.parse)
 
     def parse(self, response):
+        #print(response.body)
         numOfReview=0
         url = response.request.meta['url']
         reviews=response.xpath('//div[@class="comment_ctrip"]/div[@class="comment_single"]')
